@@ -1,0 +1,159 @@
+{
+  "inventory": {
+    "concepts": 36,
+    "aliases": {
+      "en": 41,
+      "ta": 36,
+      "de": 40
+    },
+    "mapping_entries_with_assets": 0,
+    "distinct_usable_assets": 0,
+    "scope": "File and metadata checks, not expert linguistic validation."
+  },
+  "entries": [
+    {
+      "id": "hello",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "thank-you",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "water",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "help",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "please",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "yes",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "no",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "good",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "morning",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "night",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "food",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "home",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "school",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "work",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "doctor",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "hospital",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "family",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "friend",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "mother",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "father",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "today",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "tomorrow",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "eat",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "drink",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "need",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "i",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "you",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "name",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "sorry",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "goodbye",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "stop",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "wait",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "where",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "when",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "what",
+      "status": "No licensed sign asset registered"
+    },
+    {
+      "id": "how",
+      "status": "No licensed sign asset registered"
+    }
+  ]
+}

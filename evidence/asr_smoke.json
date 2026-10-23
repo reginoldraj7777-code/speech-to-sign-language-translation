@@ -1,0 +1,59 @@
+{
+  "generated_utc": "2026-10-20T13:19:27.351371+00:00",
+  "audio_sha256": "63a4b1e4c1dc655ac70961ffbf518acd249df237e5a0152faae9a4a836949715",
+  "source_sha256": "9912e258e35f5be651f182687ed792d654c93c964ee4190949c8b2a633056173",
+  "model": "tiny",
+  "language": "en",
+  "device": "cpu",
+  "compute_type": "int8",
+  "runs": [
+    {
+      "text": "And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 11.0,
+          "text": "And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country."
+        }
+      ],
+      "language": "en",
+      "model": "tiny",
+      "processing_seconds": 10.934957166999993,
+      "audio_seconds": 11.0
+    },
+    {
+      "text": "And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 11.0,
+          "text": "And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country."
+        }
+      ],
+      "language": "en",
+      "model": "tiny",
+      "processing_seconds": 5.447139203000006,
+      "audio_seconds": 11.0
+    },
+    {
+      "text": "And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 11.0,
+          "text": "And so, my fellow Americans, ask not what your country can do for you, ask what you can do for your country."
+        }
+      ],
+      "language": "en",
+      "model": "tiny",
+      "processing_seconds": 1.0894882590000634,
+      "audio_seconds": 11.0
+    }
+  ],
+  "median_processing_seconds": 5.447139203000006,
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Linux-6.18.55-x86_64-with-glibc2.39"
+  },
+  "scope": "Single-clip repeated ASR smoke check. Includes audio decoding and inference, excludes model load, user recording and sign playback. Not end-to-end or multilingual accuracy."
+}

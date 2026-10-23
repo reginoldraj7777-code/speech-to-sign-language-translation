@@ -1,10 +1,3 @@
-# data
+# Data resources
 
-Resources used for sign-language mapping.
-
-This folder may contain:
-- gesture dictionary / gloss mapping files
-- sample audio/text inputs for testing
-- any lookup tables used by the pipeline
-
-Note: Large datasets are not stored in GitHub. Only small samples or links are included.
+`lexicon.json` contains 36 authored concepts with English/Tamil/German aliases. No sign-media dataset is bundled. See [asset onboarding](../docs/asset_onboarding.md) for licensing, registration and validation. Aliases do not count as distinct gestures.

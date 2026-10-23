@@ -1,6 +1,3 @@
-openai-whisper
-streamlit
-nltk
-spacy
-pandas
-numpy
+streamlit>=1.40,<2
+faster-whisper>=1.1,<2
+numpy>=2,<3

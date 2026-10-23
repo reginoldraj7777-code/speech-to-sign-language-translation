@@ -1,0 +1,191 @@
+[
+  {
+    "language": "en",
+    "text": "Hello!",
+    "expected_glosses": [
+      "HELLO"
+    ]
+  },
+  {
+    "language": "en",
+    "text": "THANK YOU.",
+    "expected_glosses": [
+      "THANK-YOU"
+    ]
+  },
+  {
+    "language": "en",
+    "text": "Please help",
+    "expected_glosses": [
+      "PLEASE",
+      "HELP"
+    ]
+  },
+  {
+    "language": "en",
+    "text": "I need water",
+    "expected_glosses": [
+      "I",
+      "NEED",
+      "WATER"
+    ]
+  },
+  {
+    "language": "en",
+    "text": "Mother father",
+    "expected_glosses": [
+      "MOTHER",
+      "FATHER"
+    ]
+  },
+  {
+    "language": "en",
+    "text": "Where school?",
+    "expected_glosses": [
+      "WHERE",
+      "SCHOOL"
+    ]
+  },
+  {
+    "language": "en",
+    "text": "Stop, wait.",
+    "expected_glosses": [
+      "STOP",
+      "WAIT"
+    ]
+  },
+  {
+    "language": "en",
+    "text": "Hello quasar",
+    "expected_glosses": [
+      "HELLO",
+      null
+    ]
+  },
+  {
+    "language": "ta",
+    "text": "வணக்கம்!",
+    "expected_glosses": [
+      "HELLO"
+    ]
+  },
+  {
+    "language": "ta",
+    "text": "நன்றி.",
+    "expected_glosses": [
+      "THANK-YOU"
+    ]
+  },
+  {
+    "language": "ta",
+    "text": "தயவு செய்து உதவி",
+    "expected_glosses": [
+      "PLEASE",
+      "HELP"
+    ]
+  },
+  {
+    "language": "ta",
+    "text": "நான் தண்ணீர் வேண்டும்",
+    "expected_glosses": [
+      "I",
+      "WATER",
+      "NEED"
+    ]
+  },
+  {
+    "language": "ta",
+    "text": "அம்மா அப்பா",
+    "expected_glosses": [
+      "MOTHER",
+      "FATHER"
+    ]
+  },
+  {
+    "language": "ta",
+    "text": "பள்ளி எங்கே?",
+    "expected_glosses": [
+      "SCHOOL",
+      "WHERE"
+    ]
+  },
+  {
+    "language": "ta",
+    "text": "நிறுத்து காத்திரு.",
+    "expected_glosses": [
+      "STOP",
+      "WAIT"
+    ]
+  },
+  {
+    "language": "ta",
+    "text": "வணக்கம் விண்மீன்",
+    "expected_glosses": [
+      "HELLO",
+      null
+    ]
+  },
+  {
+    "language": "de",
+    "text": "Hallo!",
+    "expected_glosses": [
+      "HELLO"
+    ]
+  },
+  {
+    "language": "de",
+    "text": "VIELEN DANK.",
+    "expected_glosses": [
+      "THANK-YOU"
+    ]
+  },
+  {
+    "language": "de",
+    "text": "Bitte Hilfe",
+    "expected_glosses": [
+      "PLEASE",
+      "HELP"
+    ]
+  },
+  {
+    "language": "de",
+    "text": "Ich brauche Wasser",
+    "expected_glosses": [
+      "I",
+      "NEED",
+      "WATER"
+    ]
+  },
+  {
+    "language": "de",
+    "text": "Mutter Vater",
+    "expected_glosses": [
+      "MOTHER",
+      "FATHER"
+    ]
+  },
+  {
+    "language": "de",
+    "text": "Wo Schule?",
+    "expected_glosses": [
+      "WHERE",
+      "SCHOOL"
+    ]
+  },
+  {
+    "language": "de",
+    "text": "Stopp, warten.",
+    "expected_glosses": [
+      "STOP",
+      "WAIT"
+    ]
+  },
+  {
+    "language": "de",
+    "text": "Hallo Quasar",
+    "expected_glosses": [
+      "HELLO",
+      null
+    ]
+  }
+]

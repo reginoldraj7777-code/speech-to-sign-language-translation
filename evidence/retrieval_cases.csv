@@ -1,0 +1,25 @@
+case,language,text,expected,predicted,exact_match,retrieval_ms,baseline_unknown,baseline_units,normalized_unknown,normalized_units
+0,en,Hello!,"[""HELLO""]","[""HELLO""]",True,0.0199700000393932,1,1,0,1
+1,en,THANK YOU.,"[""THANK-YOU""]","[""THANK-YOU""]",True,0.009122999927058117,2,2,0,1
+2,en,Please help,"[""PLEASE"", ""HELP""]","[""PLEASE"", ""HELP""]",True,0.007642000127816573,1,2,0,2
+3,en,I need water,"[""I"", ""NEED"", ""WATER""]","[""I"", ""NEED"", ""WATER""]",True,0.014751999970030738,1,3,0,3
+4,en,Mother father,"[""MOTHER"", ""FATHER""]","[""MOTHER"", ""FATHER""]",True,0.008692999927006895,1,2,0,2
+5,en,Where school?,"[""WHERE"", ""SCHOOL""]","[""WHERE"", ""SCHOOL""]",True,0.008242000149039086,2,2,0,2
+6,en,"Stop, wait.","[""STOP"", ""WAIT""]","[""STOP"", ""WAIT""]",True,0.00858299995343259,2,2,0,2
+7,en,Hello quasar,"[""HELLO"", null]","[""HELLO"", null]",True,0.012489000027926522,2,2,1,2
+8,ta,வணக்கம்!,"[""HELLO""]","[""HELLO""]",True,0.006429999984902679,1,1,0,1
+9,ta,நன்றி.,"[""THANK-YOU""]","[""THANK-YOU""]",True,0.005317999921317096,1,1,0,1
+10,ta,தயவு செய்து உதவி,"[""PLEASE"", ""HELP""]","[""PLEASE"", ""HELP""]",True,0.007812000148987863,0,2,0,2
+11,ta,நான் தண்ணீர் வேண்டும்,"[""I"", ""WATER"", ""NEED""]","[""I"", ""WATER"", ""NEED""]",True,0.014662000012322096,0,3,0,3
+12,ta,அம்மா அப்பா,"[""MOTHER"", ""FATHER""]","[""MOTHER"", ""FATHER""]",True,0.007010999979684129,0,2,0,2
+13,ta,பள்ளி எங்கே?,"[""SCHOOL"", ""WHERE""]","[""SCHOOL"", ""WHERE""]",True,0.006600000006073969,1,2,0,2
+14,ta,நிறுத்து காத்திரு.,"[""STOP"", ""WAIT""]","[""STOP"", ""WAIT""]",True,0.007711000080234953,1,2,0,2
+15,ta,வணக்கம் விண்மீன்,"[""HELLO"", null]","[""HELLO"", null]",True,0.006649999932051287,1,2,1,2
+16,de,Hallo!,"[""HELLO""]","[""HELLO""]",True,0.004816999989998294,1,1,0,1
+17,de,VIELEN DANK.,"[""THANK-YOU""]","[""THANK-YOU""]",True,0.0054680001539964,2,2,0,1
+18,de,Bitte Hilfe,"[""PLEASE"", ""HELP""]","[""PLEASE"", ""HELP""]",True,0.005278000116959447,2,2,0,2
+19,de,Ich brauche Wasser,"[""I"", ""NEED"", ""WATER""]","[""I"", ""NEED"", ""WATER""]",True,0.007071000027281116,2,3,0,3
+20,de,Mutter Vater,"[""MOTHER"", ""FATHER""]","[""MOTHER"", ""FATHER""]",True,0.005348000058802427,2,2,0,2
+21,de,Wo Schule?,"[""WHERE"", ""SCHOOL""]","[""WHERE"", ""SCHOOL""]",True,0.005327999815563089,2,2,0,2
+22,de,"Stopp, warten.","[""STOP"", ""WAIT""]","[""STOP"", ""WAIT""]",True,0.005447999910757062,2,2,0,2
+23,de,Hallo Quasar,"[""HELLO"", null]","[""HELLO"", null]",True,0.005317999921317096,2,2,1,2

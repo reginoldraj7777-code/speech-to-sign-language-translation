@@ -1,0 +1,695 @@
+[
+  {
+    "id": "hello",
+    "gloss": "HELLO",
+    "aliases": {
+      "en": [
+        "hello",
+        "hi"
+      ],
+      "ta": [
+        "வணக்கம்"
+      ],
+      "de": [
+        "hallo"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "thank-you",
+    "gloss": "THANK-YOU",
+    "aliases": {
+      "en": [
+        "thank you",
+        "thanks"
+      ],
+      "ta": [
+        "நன்றி"
+      ],
+      "de": [
+        "danke",
+        "vielen dank"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "water",
+    "gloss": "WATER",
+    "aliases": {
+      "en": [
+        "water"
+      ],
+      "ta": [
+        "தண்ணீர்"
+      ],
+      "de": [
+        "wasser"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "help",
+    "gloss": "HELP",
+    "aliases": {
+      "en": [
+        "help"
+      ],
+      "ta": [
+        "உதவி"
+      ],
+      "de": [
+        "hilfe"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "please",
+    "gloss": "PLEASE",
+    "aliases": {
+      "en": [
+        "please"
+      ],
+      "ta": [
+        "தயவு செய்து"
+      ],
+      "de": [
+        "bitte"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "yes",
+    "gloss": "YES",
+    "aliases": {
+      "en": [
+        "yes"
+      ],
+      "ta": [
+        "ஆம்"
+      ],
+      "de": [
+        "ja"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "no",
+    "gloss": "NO",
+    "aliases": {
+      "en": [
+        "no"
+      ],
+      "ta": [
+        "இல்லை"
+      ],
+      "de": [
+        "nein"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "good",
+    "gloss": "GOOD",
+    "aliases": {
+      "en": [
+        "good"
+      ],
+      "ta": [
+        "நல்லது"
+      ],
+      "de": [
+        "gut"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "morning",
+    "gloss": "MORNING",
+    "aliases": {
+      "en": [
+        "morning"
+      ],
+      "ta": [
+        "காலை"
+      ],
+      "de": [
+        "morgen"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "night",
+    "gloss": "NIGHT",
+    "aliases": {
+      "en": [
+        "night"
+      ],
+      "ta": [
+        "இரவு"
+      ],
+      "de": [
+        "nacht"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "food",
+    "gloss": "FOOD",
+    "aliases": {
+      "en": [
+        "food"
+      ],
+      "ta": [
+        "உணவு"
+      ],
+      "de": [
+        "essen"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "home",
+    "gloss": "HOME",
+    "aliases": {
+      "en": [
+        "home",
+        "house"
+      ],
+      "ta": [
+        "வீடு"
+      ],
+      "de": [
+        "haus",
+        "zuhause"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "school",
+    "gloss": "SCHOOL",
+    "aliases": {
+      "en": [
+        "school"
+      ],
+      "ta": [
+        "பள்ளி"
+      ],
+      "de": [
+        "schule"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "work",
+    "gloss": "WORK",
+    "aliases": {
+      "en": [
+        "work"
+      ],
+      "ta": [
+        "வேலை"
+      ],
+      "de": [
+        "arbeit"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "doctor",
+    "gloss": "DOCTOR",
+    "aliases": {
+      "en": [
+        "doctor"
+      ],
+      "ta": [
+        "மருத்துவர்"
+      ],
+      "de": [
+        "arzt"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "hospital",
+    "gloss": "HOSPITAL",
+    "aliases": {
+      "en": [
+        "hospital"
+      ],
+      "ta": [
+        "மருத்துவமனை"
+      ],
+      "de": [
+        "krankenhaus"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "family",
+    "gloss": "FAMILY",
+    "aliases": {
+      "en": [
+        "family"
+      ],
+      "ta": [
+        "குடும்பம்"
+      ],
+      "de": [
+        "familie"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "friend",
+    "gloss": "FRIEND",
+    "aliases": {
+      "en": [
+        "friend"
+      ],
+      "ta": [
+        "நண்பர்"
+      ],
+      "de": [
+        "freund"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "mother",
+    "gloss": "MOTHER",
+    "aliases": {
+      "en": [
+        "mother"
+      ],
+      "ta": [
+        "அம்மா"
+      ],
+      "de": [
+        "mutter"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "father",
+    "gloss": "FATHER",
+    "aliases": {
+      "en": [
+        "father"
+      ],
+      "ta": [
+        "அப்பா"
+      ],
+      "de": [
+        "vater"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "today",
+    "gloss": "TODAY",
+    "aliases": {
+      "en": [
+        "today"
+      ],
+      "ta": [
+        "இன்று"
+      ],
+      "de": [
+        "heute"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "tomorrow",
+    "gloss": "TOMORROW",
+    "aliases": {
+      "en": [
+        "tomorrow"
+      ],
+      "ta": [
+        "நாளை"
+      ],
+      "de": [
+        "morgiger tag"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "eat",
+    "gloss": "EAT",
+    "aliases": {
+      "en": [
+        "eat"
+      ],
+      "ta": [
+        "சாப்பிடு"
+      ],
+      "de": [
+        "essen gehen"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "drink",
+    "gloss": "DRINK",
+    "aliases": {
+      "en": [
+        "drink"
+      ],
+      "ta": [
+        "குடி"
+      ],
+      "de": [
+        "trinken"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "need",
+    "gloss": "NEED",
+    "aliases": {
+      "en": [
+        "need"
+      ],
+      "ta": [
+        "வேண்டும்"
+      ],
+      "de": [
+        "brauche",
+        "brauchen"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "i",
+    "gloss": "I",
+    "aliases": {
+      "en": [
+        "i",
+        "me"
+      ],
+      "ta": [
+        "நான்"
+      ],
+      "de": [
+        "ich"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "you",
+    "gloss": "YOU",
+    "aliases": {
+      "en": [
+        "you"
+      ],
+      "ta": [
+        "நீங்கள்"
+      ],
+      "de": [
+        "du",
+        "sie"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "name",
+    "gloss": "NAME",
+    "aliases": {
+      "en": [
+        "name"
+      ],
+      "ta": [
+        "பெயர்"
+      ],
+      "de": [
+        "name"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "sorry",
+    "gloss": "SORRY",
+    "aliases": {
+      "en": [
+        "sorry"
+      ],
+      "ta": [
+        "மன்னிக்கவும்"
+      ],
+      "de": [
+        "entschuldigung"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "goodbye",
+    "gloss": "GOODBYE",
+    "aliases": {
+      "en": [
+        "goodbye",
+        "bye"
+      ],
+      "ta": [
+        "போய் வருகிறேன்"
+      ],
+      "de": [
+        "tschüss"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "stop",
+    "gloss": "STOP",
+    "aliases": {
+      "en": [
+        "stop"
+      ],
+      "ta": [
+        "நிறுத்து"
+      ],
+      "de": [
+        "stopp"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "wait",
+    "gloss": "WAIT",
+    "aliases": {
+      "en": [
+        "wait"
+      ],
+      "ta": [
+        "காத்திரு"
+      ],
+      "de": [
+        "warten"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "where",
+    "gloss": "WHERE",
+    "aliases": {
+      "en": [
+        "where"
+      ],
+      "ta": [
+        "எங்கே"
+      ],
+      "de": [
+        "wo"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "when",
+    "gloss": "WHEN",
+    "aliases": {
+      "en": [
+        "when"
+      ],
+      "ta": [
+        "எப்போது"
+      ],
+      "de": [
+        "wann"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "what",
+    "gloss": "WHAT",
+    "aliases": {
+      "en": [
+        "what"
+      ],
+      "ta": [
+        "என்ன"
+      ],
+      "de": [
+        "was"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  },
+  {
+    "id": "how",
+    "gloss": "HOW",
+    "aliases": {
+      "en": [
+        "how"
+      ],
+      "ta": [
+        "எப்படி"
+      ],
+      "de": [
+        "wie"
+      ]
+    },
+    "asset": null,
+    "license": null,
+    "source_url": null,
+    "sign_language": null
+  }
+]

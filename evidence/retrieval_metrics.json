@@ -1,0 +1,28 @@
+{
+  "generated_utc": "2026-10-20T13:18:33.128150+00:00",
+  "source_sha256": "9912e258e35f5be651f182687ed792d654c93c964ee4190949c8b2a633056173",
+  "fixture_sha256": "ee5731c0b846010b492aae585a8a611768d550a71af5e22a2574d7b60918ad06",
+  "inventory": {
+    "concepts": 36,
+    "aliases": {
+      "en": 41,
+      "ta": 36,
+      "de": 40
+    },
+    "mapping_entries_with_assets": 0,
+    "distinct_usable_assets": 0,
+    "scope": "File and metadata checks, not expert linguistic validation."
+  },
+  "cases": 24,
+  "cases_per_language": {
+    "en": 8,
+    "ta": 8,
+    "de": 8
+  },
+  "exact_sequence_match_rate": 1.0,
+  "baseline_unknown_unit_rate": 0.6808510638297872,
+  "normalized_unknown_unit_rate": 0.06666666666666667,
+  "relative_unknown_unit_rate_reduction": 0.9020833333333333,
+  "median_retrieval_ms": 0.007071000027281116,
+  "scope": "24 authored regression cases, not an independent accuracy dataset. Normalization and phrase grouping change the retrieval-unit denominator. No gesture alignment or end-to-end latency is measured."
+}
