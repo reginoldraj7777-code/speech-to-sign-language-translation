@@ -1,6 +1,6 @@
 # Archived original overview
 
-Historical project description, preserved for context. Current implementation and measurement boundaries are in the main README.
+Historical project description, preserved for context. It includes planned or unverified features and is not the current implementation specification. Use the [current README](../../README.md) and [model card](../model_card.md) for implemented behavior and measurement boundaries.
 
 # Real-Time Speech-to-Sign Language Translation System
 

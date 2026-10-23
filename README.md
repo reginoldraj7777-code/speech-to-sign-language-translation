@@ -1,5 +1,7 @@
 # Speech to Sign · Research Studio
 
+[![CI](https://github.com/reginoldraj7777-code/speech-to-sign-language-translation/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/reginoldraj7777-code/speech-to-sign-language-translation/actions/workflows/test.yml) · [Documentation](docs/README.md) · [Verified CI run](docs/ci_verification.md)
+
 ### From a spoken message to an inspectable concept sequence
 
 A runnable accessibility research prototype with **Whisper transcription**, **English / Tamil / German text input**, phrase-aware gloss retrieval and a Streamlit review interface. Every match exposes its source phrase; unknown words stay visible; licensed sign media can be registered for playback.
@@ -71,6 +73,16 @@ flowchart TD
 - [Asset onboarding](docs/asset_onboarding.md): register genuine licensed sign media; do not inflate counts with aliases or duplicate files.
 - [Model card](docs/model_card.md): intended use, language limitations and remaining work.
 - [Résumé evidence map](docs/resume_evidence.md): precise support and unresolved historical claims.
-- [Original academic report](outputs/FINAL%20REPORT.pdf): retained unchanged. It describes English/Tamil and reports 85% mapping; the new implementation is an October 2026 extension, not retrospective proof of its evaluation.
+- [Original academic report](docs/research/original_report.pdf): retained unchanged. It describes English/Tamil and reports 85% mapping; the new implementation is an October 2026 extension, not retrospective proof of its evaluation.
 
 The 24 curated cases all reproduce their expected concept sequences. That is a regression check, **not 88% independently evaluated gesture alignment**. A licensed 5,000-gesture collection, independent multilingual test set and publication reference are still needed to substantiate the remaining résumé claims.
+
+## Repository guide
+
+| Location | Contents |
+|---|---|
+| `src/` | Transcription, retrieval and Streamlit interface |
+| `data/` | Authored concept lexicon and local media registry |
+| `scripts/ and tests/` | Evaluation, asset checks and regressions |
+| `evidence/` | Recorded retrieval and ASR measurements |
+| `docs/` | Model card, methodology and original research |
